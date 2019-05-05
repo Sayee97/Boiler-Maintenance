@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "314381477158-loj1hm3m1vq3uhen9l27klaqagnq68cu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.boilermaintenance",
+            "certificate_hash": "ef7d51e86c9fcbd4b95064d5531b1eab9e66659e"
+          }
+        },
+        {
           "client_id": "314381477158-rq5qadj4tm20v3oprov4p3p5tc3282u7.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -25,15 +33,13 @@
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314381477158-rq5qadj4tm20v3oprov4p3p5tc3282u7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
